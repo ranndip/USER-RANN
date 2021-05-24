@@ -8,3 +8,4 @@ make-serial/make-mpi to install lammps are the same as specified in the followin
 LAMMPS version: [lammps-3Mar20.tar.gz](https://lammps.sandia.gov/tars/)
 
 How to install LAMMPS with RANN package - [Tutorial](https://youtu.be/xxuuY6Aif2U)
+How to use RANN potential in  LAMMPS MD simulation -  [Tutorial to calculate elastic constant of Magnesium](https://youtu.be/2chsh9-frSs)
