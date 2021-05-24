@@ -6,3 +6,5 @@ Copy User-RANN folder to the LAMMPS src/ folder.
 make-serial/make-mpi to install lammps are the same as specified in the following page. https://lammps.sandia.gov/doc/Build_make.html
 
 LAMMPS version: [lammps-3Mar20.tar.gz](https://lammps.sandia.gov/tars/)
+
+How to install LAMMPS with RANN package - [Tutorial](https://youtu.be/xxuuY6Aif2U)
